@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        label 'myslave'
+        label 'azurewindowsslave'
     }
     stages {
 
